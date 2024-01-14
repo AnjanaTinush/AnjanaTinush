@@ -6,7 +6,6 @@
 | ![Anjana's github stats](https://github-readme-stats.vercel.app/api?username=AnjanaTinush&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaTinush&theme=tokyonight) 
 | ---| --- |
 ![Anjana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnjanaTinush&theme=tokyonight) 
-___
 - 🌱 I’m currently learning **mern stack**
 
 - 📫 How to reach me **anjanatinush222@gmail.com**
