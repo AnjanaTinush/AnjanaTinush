@@ -5,7 +5,7 @@
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=AnjanaTinush&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnjanaTinush&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaTinush&theme=tokyonight) | 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaTinush&theme=tokyonight) 
 
 ___
 - 🌱 I’m currently learning **mern stack**
