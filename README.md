@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anjanatinush&label=Profile%20views&color=0e75b6&style=flat" alt="anjanatinush" /> </p>
 
 | ![Anjana's github stats](https://github-readme-stats.vercel.app/api?username=AnjanaTinush&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaTinush&theme=tokyonight) 
-|----| --- |
+
 ![Anjana GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnjanaTinush&theme=tokyonight) 
 ___
 - 🌱 I’m currently learning **mern stack**
