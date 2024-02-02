@@ -3,16 +3,18 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anjanatinush&label=Profile%20views&color=0e75b6&style=flat" alt="anjanatinush" /> </p>
 
-
+<table>
 
 - 🌱 I’m currently learning **mern stack**
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 - 📫 How to reach me **anjanatinush222@gmail.com**
 -  ⚡ Fun fact **Call me as Tinu**
-
+  
+   <p align="cenetr" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
+</table>
 ---
 
-   <p align="cenetr" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
+  
 
 
 <h3 align="center">Statistics</h3>
