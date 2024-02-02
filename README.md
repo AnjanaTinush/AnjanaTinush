@@ -37,7 +37,7 @@
 <a href="https://linkedin.com/in/anjana-tinush-550552281/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/23090804/anjana-tinush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 <a href="https://fb.com/anjana tinush" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /> </a>
-<a href="https://instagram.com/anjana_tinush" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjana_tinush" height="30" width="40" /></a>
+<a href="https://instagram.com/anjana_tinush" target="blank"> <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="kavee_dineth" height="50" width="50" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
