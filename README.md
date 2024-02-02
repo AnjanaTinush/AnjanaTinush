@@ -12,6 +12,9 @@
 
 ---
 
+   <p align="cenetr" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 150px></p>
+
+
 <h3 align="center">Statistics</h3>
 <p align="center">
 <table align="center">
