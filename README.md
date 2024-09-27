@@ -7,7 +7,7 @@
 <tr border="none">
 <td width="100%" align="left">
 
-- 🌱 I’m currently learning **mern stack**
+- 🌱 I’m currently learning **Next Js**
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 - 📫 How to reach me **anjanatinush222@gmail.com**
 -  ⚡ Fun fact **Call me as Tinu**
